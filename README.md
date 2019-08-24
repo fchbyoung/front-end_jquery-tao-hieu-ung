@@ -1,1 +1,1 @@
-#JQuery t
+#JQuery tạo hiệu ứng
